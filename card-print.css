@@ -1,0 +1,16 @@
+@media print {
+  body,
+  html,
+  img,
+  a {
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  img {
+    height: 316px !important;
+    margin: 0 1px 1px 0 !important;
+    width: 230px !important;
+  }
+}
